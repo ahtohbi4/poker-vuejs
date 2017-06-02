@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ahtohbi4/vue-test/issues"
   },
-  "homepage": "https://github.com/ahtohbi4/vue-test#readme"
+  "homepage": "https://github.com/ahtohbi4/vue-test#readme",
+  "dependencies": {
+    "vue": "^2.3.4"
+  }
 }
