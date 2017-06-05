@@ -4,6 +4,7 @@
   "description": "VueJS test",
   "main": "index.js",
   "scripts": {
+    "lint:js": "node_modules/.bin/eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/ahtohbi4/vue-test#readme",
   "dependencies": {
     "vue": "^2.3.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.0"
   }
 }
